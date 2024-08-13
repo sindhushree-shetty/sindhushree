@@ -1,0 +1,30 @@
+body{
+    border-style: groove;
+}
+
+    
+
+.a{
+    color:white;
+    background-color:black;
+    
+    border: 5px black outset;
+    text-align: center;
+    
+}
+.img{
+    text-align: center;
+    content:flex ;
+
+    
+}
+.body{
+    background-color:grey;
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    padding:1rem 0;
+    background-color: black;
+    color: white;
+}
